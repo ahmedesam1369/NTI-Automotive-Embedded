@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:e:\workspace\c programming\test2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1584205420 source:e:\workspace\c programming\vehicle task\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1697460607 source:e:\workspace\c programming\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libray.h"
+
+1697460359 source:e:\workspace\c programming\test\libray.c
+	"libray.h"
+
+1697461145 e:\workspace\c programming\test\libray.h
+	"DataTypes.h"
+	<string.h>
+	<stdio.h>
+
+1697448463 e:\workspace\c programming\test\datatypes.h
+
+1697460359 source:e:\workspace\c programming\library books task\libray.c
+	"libray.h"
+
+1697461145 e:\workspace\c programming\library books task\libray.h
+	"DataTypes.h"
+	<string.h>
+	<stdio.h>
+
+1697448463 e:\workspace\c programming\library books task\datatypes.h
+
+1697460607 source:e:\workspace\c programming\library books task\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libray.h"
+
