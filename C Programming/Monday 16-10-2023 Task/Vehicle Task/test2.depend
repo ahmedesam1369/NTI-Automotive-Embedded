@@ -7,3 +7,18 @@
 	<stdio.h>
 	<stdlib.h>
 
+1697791578 source:e:\workspace\c programming\c programming\monday 16-10-2023 task\vehicle task\vehicle.c
+	"vehicle.h"
+
+1697790478 e:\workspace\c programming\c programming\monday 16-10-2023 task\vehicle task\vehicle.h
+	<stdio.h>
+	<stdlib.h>
+	"DataTypes.h"
+
+1697790362 e:\workspace\c programming\c programming\monday 16-10-2023 task\vehicle task\datatypes.h
+
+1697791184 source:e:\workspace\c programming\c programming\monday 16-10-2023 task\vehicle task\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vehicle.h"
+

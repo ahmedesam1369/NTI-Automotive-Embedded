@@ -32,7 +32,6 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="DataTypes.h" />
-		<Unit filename="book_inputs.h" />
 		<Unit filename="libray.c">
 			<Option compilerVar="CC" />
 		</Unit>
